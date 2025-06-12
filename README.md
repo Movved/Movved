@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello World! I'm Mohammed
 
-<!--
-**Movved/Movved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Dev student | 💻 Learning Web Development | 🚀 Always Curious
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+Hey! I'm a student developer building my foundation in web technologies. I love learning by doing, whether it's designing clean user interfaces or exploring how code works behind the scenes.  
+
+Currently diving into:
+
+- 🖥️ **Frontend Development**: HTML5, CSS3, JavaScript  
+- 🛠️ **Backend Basics**: Learning PHP & server-side logic  
+- 📚 **CS Concepts**: Graph Theory, Algorithms, Problem Solving (c & python) 
+- 🐧 **Linux User**: Getting into ricing and customizing my Arch setup
+
+---
+
+## 🛠️ Tools & Technologies
+
+```bash
+anguages:    C, python,HTML, CSS, JavaScript, PHP (learning), Bash  
+Tools:        Git, GitHub, VS Code, Figma  
+OS:           Linux (mostly Arch), Windows  
+```
+## 🤝 Let's Connect
+
+- 🌐 **GitHub**: [Movved](https://github.com/mohammedbellatrach)  
+- 👋🏾 **LinkedIn**: [mohammedbellatrach](https://www.linkedin.com/in/mohammedbellatrach/)  
+
