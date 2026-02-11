@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-Hey! I'm a student developer building my foundation in web technologies. I love learning by doing, whether it's designing clean user interfaces or exploring how code works behind the scenes.  
+Hey! I'm a student developer trying to create my path.I like building tools that eventually save me time, even if they take longer to build than to use at first.
 
 Currently diving into:
 
