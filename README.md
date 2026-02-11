@@ -24,7 +24,6 @@ Tools:        حدث ولا حرج
 OS:           Linux (mostly Arch), Windows  
 ```
 ## 🤝 Let's Connect
-- 🌐 **Email**: [Mohammed BELLATRACH](mohabellatrach@gmail.com)  
 - 🌐 **GitHub**: [Movved](https://github.com/mohammedbellatrach)  
 - 👋🏾 **LinkedIn**: [mohammedbellatrach](https://www.linkedin.com/in/mohammed-bellatrach/)  
 
